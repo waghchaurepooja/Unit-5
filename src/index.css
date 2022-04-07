@@ -1,0 +1,86 @@
+
+body
+{
+    margin: 0;
+}
+#root
+{
+    /* border: 1px solid; */
+    color: red;
+    padding: 1vw;
+    text-decoration: underline;
+}
+.form
+{
+    /* border: 1px solid; */
+    padding: 1vw;
+    width: 35%;
+    margin: auto;
+    margin-bottom: .5vw;
+}
+.TextInput
+{
+    outline: none;
+    width: 96%;
+    margin: auto;
+    padding: .5vw;
+    height: 4vw;
+    font-size: 2.4vw;
+    margin-bottom: .5vw;
+}
+.SubmitInput
+{
+    outline: none;
+    margin: auto;
+    width: 99.9%;
+    padding: .5vw;
+    height: 4vw;
+    font-size: 2.4vw;
+    font-weight: bold;
+}
+.ImageBox
+{
+    /* border: 1px solid blue; */
+    width: 10vw;
+    margin: auto;
+    display: flex;
+    margin-bottom: .5vw;
+}
+.logoimage
+{
+    /* border: 1px solid; */
+    width: 99%;
+    height: 99.9%;
+}
+.table
+{
+    /* border: 1px solid; */
+    width: 37.1%;
+    padding: .5vw;
+    margin: auto;
+}
+.th1
+{
+    border: 1px solid;
+    font-size: 1.8vw;
+    padding: .4vw;
+}
+.th2
+{
+    border: 1px solid;
+    width: 20%;
+    font-size: 1.8vw;
+    padding: .4vw;
+}
+.td1
+{
+    border: 1px solid;
+    font-size: 1.8vw;
+    padding: .4vw;
+}
+.td2
+{
+    border: 1px solid;
+    font-size: 1.8vw;
+    padding: .4vw;
+}
